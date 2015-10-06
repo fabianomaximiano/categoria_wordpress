@@ -8,3 +8,5 @@
     <li><a href="<?php echo get_category_link($category->term_id);?>"><?php echo $category->name;?></a></li>
   <?php endforeach; ?>
 </ul>
+
+http://daviwp.com/categoria/wordpress/
